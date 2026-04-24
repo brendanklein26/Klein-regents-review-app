@@ -1,0 +1,1918 @@
+[
+  {
+    "number": 1,
+    "title": "Colonial Foundations (1607\u20131763)",
+    "overview": [
+      "European colonists and Native Americans interacted through trade, cultural exchange, and conflict; diseases and wars devastated Native populations and reshaped societies.",
+      "Distinct geographic and economic conditions produced regional differences: New England centered on small farms and commerce, the Middle Colonies mixed agriculture and trade, and the Southern Colonies relied on plantation agriculture supported by indentured servitude and enslaved Africans.",
+      "Colonial political institutions drew on British traditions such as the Magna Carta and English Bill of Rights, Enlightenment ideas about natural rights and separation of powers, and colonial experiences.  Examples include the Mayflower Compact, New England town meetings, the Fundamental Orders of Connecticut, the Maryland Toleration Act, and the House of Burgesses.  These ideas influenced the later creation of the U.S. Constitution."
+    ],
+    "vocabulary": [
+      {
+        "term": "Mercantilism",
+        "definition": "Economic theory that colonies exist to enrich the mother country through trade regulation."
+      },
+      {
+        "term": "Indentured servant",
+        "definition": "Person bound by contract to work for a master for a fixed time in exchange for passage to the colonies."
+      },
+      {
+        "term": "Triangular Trade",
+        "definition": "Three\u2011leg trade system linking Europe, Africa and the Americas; included the Middle Passage transporting enslaved Africans."
+      },
+      {
+        "term": "Mayflower Compact",
+        "definition": "1620 agreement among Pilgrims establishing self\u2011government in Plymouth Colony."
+      },
+      {
+        "term": "House of Burgesses",
+        "definition": "First representative assembly in the British colonies (Virginia, 1619)."
+      },
+      {
+        "term": "Enlightenment",
+        "definition": "Intellectual movement emphasizing reason, natural rights and social contracts; influenced colonial thinkers."
+      },
+      {
+        "term": "Salutary Neglect",
+        "definition": "British policy of minimal colonial oversight, allowing development of self\u2011government."
+      },
+      {
+        "term": "Great Awakening",
+        "definition": "Religious revival in the 1730s\u20131740s that encouraged questioning authority and emphasized individual faith."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "Which factor contributed most to regional differences in the economies of the British North American colonies?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The policies of King George\u202fIII"
+          },
+          {
+            "label": "B",
+            "text": "Geographic conditions such as soil and climate"
+          },
+          {
+            "label": "C",
+            "text": "The widespread presence of cash crops like cotton in New England"
+          },
+          {
+            "label": "D",
+            "text": "The laws of the Spanish crown"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "The **Mayflower Compact** is significant because it was",
+        "options": [
+          {
+            "label": "A",
+            "text": "an early form of colonial self\u2011government"
+          },
+          {
+            "label": "B",
+            "text": "the first constitution of the United States"
+          },
+          {
+            "label": "C",
+            "text": "a treaty between settlers and Native Americans"
+          },
+          {
+            "label": "D",
+            "text": "a declaration of independence from Britain"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "Which statement best describes the concept of **salutary neglect**?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The British Parliament made strict laws and enforced them heavily in the colonies."
+          },
+          {
+            "label": "B",
+            "text": "Britain allowed the colonies economic freedom in exchange for colonial loyalty and profits."
+          },
+          {
+            "label": "C",
+            "text": "Colonists completely ignored British trade regulations and laws."
+          },
+          {
+            "label": "D",
+            "text": "British officials relocated colonists to other parts of the empire."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "The **Great Awakening** contributed to the growth of democratic ideas in the colonies because it",
+        "options": [
+          {
+            "label": "A",
+            "text": "promoted the divine right of kings"
+          },
+          {
+            "label": "B",
+            "text": "discouraged people from questioning authority"
+          },
+          {
+            "label": "C",
+            "text": "emphasized personal faith and equality before God"
+          },
+          {
+            "label": "D",
+            "text": "increased support for monarchy"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Describe two ways in which geography influenced the development of different colonial economies and social structures in New England, the Middle Colonies and the Southern Colonies.",
+      "Explain how Enlightenment ideas and British political traditions influenced the development of colonial political institutions."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "A",
+      "3": "B",
+      "4": "C"
+    }
+  },
+  {
+    "number": 2,
+    "title": "Constitutional Foundations (1763\u20131824)",
+    "overview": [
+      "British efforts to exert control and raise revenue after the French and Indian War \u2014 including the Proclamation of 1763, Stamp Act, Townshend Acts, Tea Act, and Coercive Acts \u2014 fueled colonial protests and ultimately led to independence.",
+      "The Declaration of Independence asserted natural rights and the principle that governments derive their power from the consent of the governed.  The Revolutionary War affected various groups and spread ideas of liberty around the world.",
+      "Weaknesses of the Articles of Confederation prompted delegates to craft the U.S. Constitution, which created a stronger federal government with separation of powers, checks and balances, and federalism.  The ratification debate between Federalists and Anti\u2011Federalists resulted in the Bill of Rights.  Early presidents like George Washington set precedents, Hamilton\u2019s financial plan shaped economic policy, and Supreme Court cases such as Marbury v. Madison strengthened federal authority."
+    ],
+    "vocabulary": [
+      {
+        "term": "Proclamation of\u202f1763",
+        "definition": "British law forbidding colonial settlement west of the Appalachian Mountains to avoid conflicts with Native Americans."
+      },
+      {
+        "term": "Stamp Act (1765)",
+        "definition": "Tax on printed materials that sparked colonial protest (\u201cno taxation without representation\u201d)."
+      },
+      {
+        "term": "Boston Massacre/Tea Party",
+        "definition": "Events demonstrating growing colonial resentment and resistance to British policies."
+      },
+      {
+        "term": "Declaration of Independence",
+        "definition": "1776 document announcing colonial separation from Britain and asserting unalienable rights."
+      },
+      {
+        "term": "Articles of Confederation",
+        "definition": "First national constitution; created a weak central government unable to levy taxes or regulate commerce."
+      },
+      {
+        "term": "Federalism",
+        "definition": "Division of power between national and state governments established by the Constitution."
+      },
+      {
+        "term": "Separation of Powers",
+        "definition": "Division of government responsibilities among legislative, executive and judicial branches."
+      },
+      {
+        "term": "Checks and Balances",
+        "definition": "System by which each branch limits the powers of the others to prevent tyranny."
+      },
+      {
+        "term": "Federalists vs. Anti\u2011Federalists",
+        "definition": "Debate over ratification of the Constitution and the need for a Bill of Rights."
+      },
+      {
+        "term": "Bill of Rights",
+        "definition": "First ten amendments guaranteeing individual liberties such as freedom of speech, press and religion."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The main purpose of the **Declaration of Independence** was to",
+        "options": [
+          {
+            "label": "A",
+            "text": "establish a plan for self\u2011government in the colonies"
+          },
+          {
+            "label": "B",
+            "text": "provide a statement of principles and grievances justifying separation from Britain"
+          },
+          {
+            "label": "C",
+            "text": "outline the powers of the new federal government"
+          },
+          {
+            "label": "D",
+            "text": "convince Parliament to repeal the Stamp Act"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "One weakness of the **Articles of Confederation** was that",
+        "options": [
+          {
+            "label": "A",
+            "text": "it created a powerful executive branch"
+          },
+          {
+            "label": "B",
+            "text": "it gave Congress too much power to levy taxes"
+          },
+          {
+            "label": "C",
+            "text": "it lacked authority to enforce its laws"
+          },
+          {
+            "label": "D",
+            "text": "it allowed the federal government to control interstate commerce"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "To gain support for ratification of the Constitution, Federalists agreed to",
+        "options": [
+          {
+            "label": "A",
+            "text": "replace the proposed Constitution with the Articles of Confederation"
+          },
+          {
+            "label": "B",
+            "text": "include a Bill of Rights to protect individual liberties"
+          },
+          {
+            "label": "C",
+            "text": "abolish the federal court system"
+          },
+          {
+            "label": "D",
+            "text": "limit the term of the president to one year"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "The principle of **judicial review**\u2014the power of courts to declare laws unconstitutional\u2014was established in",
+        "options": [
+          {
+            "label": "A",
+            "text": "*McCulloch v.\u202fMaryland*"
+          },
+          {
+            "label": "B",
+            "text": "*Marbury v.\u202fMadison*"
+          },
+          {
+            "label": "C",
+            "text": "*Gibbons v.\u202fOgden*"
+          },
+          {
+            "label": "D",
+            "text": "*Dred Scott v.\u202fSandford*"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Alexander Hamilton\u2019s financial plan included",
+        "options": [
+          {
+            "label": "A",
+            "text": "opposition to tariffs and national banking"
+          },
+          {
+            "label": "B",
+            "text": "support for agricultural subsidies"
+          },
+          {
+            "label": "C",
+            "text": "creation of a national bank and assumption of state debts"
+          },
+          {
+            "label": "D",
+            "text": "elimination of the federal government\u2019s ability to tax"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Identify and explain two ways in which the Constitution addressed weaknesses of the Articles of Confederation.",
+      "Describe one precedent set by George Washington\u2019s presidency and explain its significance for future presidents."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "C",
+      "3": "B",
+      "4": "B",
+      "5": "C"
+    }
+  },
+  {
+    "number": 3,
+    "title": "Expansion, Nationalism and Sectionalism (1800\u20131865)",
+    "overview": [
+      "Territorial expansion and economic growth strengthened American nationalism.  The Louisiana Purchase doubled the nation\u2019s size; the War of 1812 bolstered national pride; and the Monroe Doctrine asserted U.S. influence in the Western Hemisphere.  The Market Revolution transformed transportation and industry, increasing demand for free and enslaved labor.",
+      "Sectional tensions grew over states\u2019 rights, slavery, and economic policy.  Abolitionists like Frederick Douglass and William Lloyd Garrison and women\u2019s rights advocates such as Elizabeth Cady Stanton organized movements; reformers pushed for Seneca Falls and challenged slavery.  Compromises over slavery (Missouri Compromise, Compromise of 1850, Kansas\u2013Nebraska Act) and court cases like Dred Scott deepened divisions.",
+      "Andrew Jackson\u2019s presidency expanded executive power through policies like the Bank War and Indian Removal while defying Supreme Court rulings (Worcester v. Georgia).  Disputes over state sovereignty and slavery led to secession and the Civil War; the Union\u2019s industrial strength, transportation networks, and leadership helped secure victory and, after the Emancipation Proclamation, emancipation became a central war aim."
+    ],
+    "vocabulary": [
+      {
+        "term": "Louisiana Purchase",
+        "definition": "1803 purchase from France that doubled U.S. territory and opened the way for westward expansion\u3010335720786567110\u2020L47-L76\u3011."
+      },
+      {
+        "term": "War of 1812",
+        "definition": "Conflict between the United States and Britain over maritime rights; fostered nationalism and manufacturing."
+      },
+      {
+        "term": "Monroe Doctrine",
+        "definition": "U.S. policy warning European powers not to interfere in the Western Hemisphere\u3010885187583936118\u2020L45-L63\u3011."
+      },
+      {
+        "term": "Market Revolution",
+        "definition": "Transformation of the U.S. economy through transportation (canals, railroads), technology and industrialization."
+      },
+      {
+        "term": "Nullification",
+        "definition": "Theory that a state could invalidate federal laws it deemed unconstitutional; debated during the tariff crisis."
+      },
+      {
+        "term": "Manifest Destiny",
+        "definition": "Belief that the United States was destined to expand across North America."
+      },
+      {
+        "term": "Abolitionism",
+        "definition": "Movement to end slavery; led by figures such as Frederick Douglass and William Lloyd Garrison."
+      },
+      {
+        "term": "Seneca Falls Convention",
+        "definition": "1848 women\u2019s rights convention producing the Declaration of Sentiments demanding equality\u3010825060215502005\u2020L2554-L2566\u3011."
+      },
+      {
+        "term": "Compromise of\u202f1850",
+        "definition": "Series of laws admitting California as a free state, strengthening the Fugitive Slave Act and organizing western territories."
+      },
+      {
+        "term": "Dred Scott decision",
+        "definition": "1857 Supreme Court case ruling that enslaved Africans were not citizens and Congress could not ban slavery in territories."
+      },
+      {
+        "term": "Kansas\u2013Nebraska Act",
+        "definition": "1854 law applying popular sovereignty to slavery in Kansas and Nebraska, leading to violence (\u201cBleeding Kansas\u201d)."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "In the **Louisiana Purchase**, President Thomas Jefferson was conflicted because he",
+        "options": [
+          {
+            "label": "A",
+            "text": "believed purchasing land exceeded presidential constitutional powers\u3010335720786567110\u2020L58-L63\u3011"
+          },
+          {
+            "label": "B",
+            "text": "wanted to expand slavery into the West"
+          },
+          {
+            "label": "C",
+            "text": "refused to negotiate with France"
+          },
+          {
+            "label": "D",
+            "text": "sought to cede the land to Britain"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "Which statement best expresses the main idea of the **Monroe Doctrine**?",
+        "options": [
+          {
+            "label": "A",
+            "text": "European nations must respect the Western Hemisphere as a U.S. sphere of influence\u3010885187583936118\u2020L45-L63\u3011"
+          },
+          {
+            "label": "B",
+            "text": "European nations should form alliances with Latin American countries"
+          },
+          {
+            "label": "C",
+            "text": "The United States will remain neutral in European wars"
+          },
+          {
+            "label": "D",
+            "text": "The United States will annex territories in Europe"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "The **Missouri Compromise** (1820) was important because it",
+        "options": [
+          {
+            "label": "A",
+            "text": "ended the debate over slavery permanently"
+          },
+          {
+            "label": "B",
+            "text": "maintained the balance of power between free and slave states"
+          },
+          {
+            "label": "C",
+            "text": "abolished slavery north of the Ohio River"
+          },
+          {
+            "label": "D",
+            "text": "granted statehood to Texas"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Leaders of the **Seneca Falls Convention** demanded that women",
+        "options": [
+          {
+            "label": "A",
+            "text": "receive the right to vote and equal legal status\u3010825060215502005\u2020L2554-L2566\u3011"
+          },
+          {
+            "label": "B",
+            "text": "return to traditional roles"
+          },
+          {
+            "label": "C",
+            "text": "support the Fugitive Slave Act"
+          },
+          {
+            "label": "D",
+            "text": "oppose abolitionism"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "The term **Manifest Destiny** refers to the belief that",
+        "options": [
+          {
+            "label": "A",
+            "text": "foreign powers should control North American territories"
+          },
+          {
+            "label": "B",
+            "text": "the United States was destined to expand across the continent"
+          },
+          {
+            "label": "C",
+            "text": "slavery should spread to all territories"
+          },
+          {
+            "label": "D",
+            "text": "states have the right to nullify federal laws"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Identify two causes of growing sectionalism in the United States before the Civil War and explain how each contributed to tension between the North and the South.",
+      "Describe one reform movement of the antebellum period (e.g., abolition or women\u2019s rights) and explain its impact on American society."
+    ],
+    "answer_key": {
+      "1": "A",
+      "2": "A",
+      "3": "B",
+      "4": "A",
+      "5": "B"
+    }
+  },
+  {
+    "number": 4,
+    "title": "Civil War and Reconstruction (1860\u20131877)",
+    "overview": [
+      "During Reconstruction, the federal government sought to rebuild the South and extend rights to formerly enslaved people.  The 13th Amendment abolished slavery, the 14th made anyone born in the United States a citizen and guaranteed equal protection, and the 15th protected African American men\u2019s right to vote.  Radical Republicans and presidential plans for Reconstruction differed, and Congress used military districts to enforce new policies.",
+      "Southern resistance undermined these gains.  Black Codes and later Jim Crow laws restricted freedoms; literacy tests, poll taxes and grandfather clauses limited voting; the Ku Klux Klan used violence; and sharecropping tied freedmen to land and debt.  Reconstruction ended with the disputed election of 1876 and the Compromise of 1877.",
+      "Federal policies encouraged westward expansion, such as the Homestead and Pacific Railway Acts, creating opportunities for settlers but displacing Native Americans through reservation systems, the Dawes Act and assimilation policies like the Carlisle Indian School.  Mexican Americans and Chinese immigrants faced discrimination despite contributing to economic growth and treaty protections."
+    ],
+    "vocabulary": [
+      {
+        "term": "Secession",
+        "definition": "Formal withdrawal of Southern states from the Union following Lincoln\u2019s election."
+      },
+      {
+        "term": "Emancipation Proclamation",
+        "definition": "1863 executive order freeing enslaved people in Confederate states; shifted war goals to emancipation."
+      },
+      {
+        "term": "Gettysburg Address",
+        "definition": "Lincoln\u2019s 1863 speech emphasizing national unity and democratic ideals."
+      },
+      {
+        "term": "13th Amendment",
+        "definition": "Constitutional amendment abolishing slavery in the U.S.\u3010523416977565636\u2020L45-L73\u3011."
+      },
+      {
+        "term": "14th Amendment",
+        "definition": "Defined citizenship and guaranteed equal protection and due process."
+      },
+      {
+        "term": "15th Amendment",
+        "definition": "Prohibited denying the right to vote based on race, color or previous condition of servitude."
+      },
+      {
+        "term": "Freedmen\u2019s Bureau",
+        "definition": "Federal agency assisting formerly enslaved people with education, jobs and legal aid during Reconstruction."
+      },
+      {
+        "term": "Black Codes",
+        "definition": "Southern laws restricting the rights of African Americans after the Civil War."
+      },
+      {
+        "term": "Jim Crow Laws",
+        "definition": "State and local laws enforcing racial segregation and disenfranchisement."
+      },
+      {
+        "term": "Sharecropping",
+        "definition": "Agricultural system in which freedpeople farmed land in exchange for a share of the crop; often led to debt peonage."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "Which advantage did the Union have over the Confederacy during the Civil War?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Greater number of experienced military officers"
+          },
+          {
+            "label": "B",
+            "text": "Control of most railroads and industrial resources\u3010825060215502005\u2020L2583-L2588\u3011"
+          },
+          {
+            "label": "C",
+            "text": "Stronger support from European allies"
+          },
+          {
+            "label": "D",
+            "text": "More familiarity with the terrain"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "The **Emancipation Proclamation** was significant because it",
+        "options": [
+          {
+            "label": "A",
+            "text": "freed all enslaved people in the United States"
+          },
+          {
+            "label": "B",
+            "text": "abolished slavery immediately after the war"
+          },
+          {
+            "label": "C",
+            "text": "changed the focus of the war to include ending slavery and discouraged foreign support for the Confederacy\u3010825060215502005\u2020L2594-L2599\u3011"
+          },
+          {
+            "label": "D",
+            "text": "authorized states to secede from the Union"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "The **13th, 14th and 15th Amendments** are often referred to as the Reconstruction Amendments because they",
+        "options": [
+          {
+            "label": "A",
+            "text": "restored voting rights to former Confederates"
+          },
+          {
+            "label": "B",
+            "text": "expanded civil rights and citizenship for African Americans\u3010523416977565636\u2020L45-L73\u3011"
+          },
+          {
+            "label": "C",
+            "text": "limited federal power and promoted states\u2019 rights"
+          },
+          {
+            "label": "D",
+            "text": "were part of the Constitution before the Civil War"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Which statement best describes a result of the **Compromise of 1877**?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reconstruction governments continued to receive federal support"
+          },
+          {
+            "label": "B",
+            "text": "Federal troops were withdrawn from the South, effectively ending Reconstruction\u3010825060215502005\u2020L2621-L2634\u3011"
+          },
+          {
+            "label": "C",
+            "text": "The Civil Rights Act of 1866 was repealed"
+          },
+          {
+            "label": "D",
+            "text": "Southern states were punished more severely for rebellion"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "During Reconstruction, **Black Codes** were enacted in the South to",
+        "options": [
+          {
+            "label": "A",
+            "text": "provide equal economic opportunities for freedpeople"
+          },
+          {
+            "label": "B",
+            "text": "restrict the rights of African Americans and maintain white supremacy\u3010825060215502005\u2020L2621-L2626\u3011"
+          },
+          {
+            "label": "C",
+            "text": "punish former Confederate leaders"
+          },
+          {
+            "label": "D",
+            "text": "integrate public schools"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Explain two ways in which the Reconstruction Amendments sought to expand the rights of African Americans.  Provide specific examples.",
+      "Identify one success and one failure of Reconstruction policies."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "C",
+      "3": "B",
+      "4": "B",
+      "5": "B"
+    }
+  },
+  {
+    "number": 5,
+    "title": "Industrialization, Urbanization and Progressivism (1850\u20131920)",
+    "overview": [
+      "Rapid industrialization and urbanization produced enormous wealth and significant problems.  Entrepreneurs like John D. Rockefeller, Andrew Carnegie and J. P. Morgan built monopolies and trusts; workers and farmers responded by organizing unions and movements such as the Knights of Labor, American Federation of Labor, Industrial Workers of the World, and the Populist Party.",
+      "Progressive reformers sought to address these challenges.  Muckrakers like Upton Sinclair exposed abuses leading to legislation such as the Meat Inspection Act; constitutional amendments established an income tax and direct election of senators; the Federal Reserve System regulated banking; and activists like Jane Addams, Jacob Riis, Ida Tarbell and Ida B. Wells fought for social justice.",
+      "Immigration surged from Europe and Asia.  Push\u2011pull factors included famine, war, persecution and economic opportunity.  New immigrants faced discrimination, quota laws and the Chinese Exclusion Act, while urbanization led to overcrowding, poor sanitation and political machines.  Reformers also championed women\u2019s suffrage (19th Amendment) and temperance (18th Amendment)."
+    ],
+    "vocabulary": [
+      {
+        "term": "Gilded Age",
+        "definition": "Late\u201119th\u2011century era of rapid economic growth and ostentatious wealth contrasted with poverty and corruption."
+      },
+      {
+        "term": "Robber Baron",
+        "definition": "Derogatory term for powerful industrialists who used questionable practices to amass wealth."
+      },
+      {
+        "term": "Monopoly/Trust",
+        "definition": "Company that controls an entire industry, limiting competition."
+      },
+      {
+        "term": "Laissez\u2011faire",
+        "definition": "Economic philosophy advocating minimal government interference in business."
+      },
+      {
+        "term": "Labor Union",
+        "definition": "Organized association of workers seeking better wages and conditions (e.g., AFL, Knights of Labor)."
+      },
+      {
+        "term": "Muckrakers",
+        "definition": "Investigative journalists who exposed social, political and economic problems (e.g., Ida Tarbell, Upton Sinclair)."
+      },
+      {
+        "term": "Progressive Amendments",
+        "definition": "16th (income tax), 17th (direct election of senators), 18th (prohibition), 19th (women\u2019s suffrage)."
+      },
+      {
+        "term": "Initiative/Referendum/Recall",
+        "definition": "Reforms allowing voters to propose laws, approve laws and remove elected officials."
+      },
+      {
+        "term": "Sherman Antitrust Act",
+        "definition": "1890 law that outlawed monopolistic business practices."
+      },
+      {
+        "term": "Pure Food and Drug Act",
+        "definition": "1906 law requiring truthful labeling and safety standards for food and medicine."
+      },
+      {
+        "term": "Robber baron",
+        "definition": "Negative term for industrialists who amassed great wealth through monopolies and often ruthless or unethical business practices."
+      },
+      {
+        "term": "Populist Party",
+        "definition": "Political party formed in the late 19th century representing farmers and laborers advocating for bimetallism, government regulation of railroads and direct election of senators."
+      },
+      {
+        "term": "Muckraker",
+        "definition": "Progressive Era journalists and writers who exposed corruption and social problems, leading to reforms."
+      },
+      {
+        "term": "Federal Reserve System",
+        "definition": "Central banking system created in 1913 to regulate the money supply and stabilize the banking sector."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "During the **Gilded Age**, many industrial leaders defended their wealth using the theory of",
+        "options": [
+          {
+            "label": "A",
+            "text": "socialism"
+          },
+          {
+            "label": "B",
+            "text": "social Darwinism"
+          },
+          {
+            "label": "C",
+            "text": "the social gospel"
+          },
+          {
+            "label": "D",
+            "text": "communism"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "Which Progressive reform gave voters the power to directly propose new laws?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Initiative"
+          },
+          {
+            "label": "B",
+            "text": "Referendum"
+          },
+          {
+            "label": "C",
+            "text": "Recall"
+          },
+          {
+            "label": "D",
+            "text": "Secret ballot"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "Upton Sinclair\u2019s novel **The Jungle** exposed conditions in the meatpacking industry and directly contributed to the passage of the",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sherman Antitrust Act"
+          },
+          {
+            "label": "B",
+            "text": "Pure Food and Drug Act"
+          },
+          {
+            "label": "C",
+            "text": "18th Amendment"
+          },
+          {
+            "label": "D",
+            "text": "Chinese Exclusion Act"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Which amendment granted women the right to vote nationwide?",
+        "options": [
+          {
+            "label": "A",
+            "text": "16th Amendment"
+          },
+          {
+            "label": "B",
+            "text": "17th Amendment"
+          },
+          {
+            "label": "C",
+            "text": "18th Amendment"
+          },
+          {
+            "label": "D",
+            "text": "19th Amendment"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Theodore Roosevelt\u2019s **Square Deal** policies focused on",
+        "options": [
+          {
+            "label": "A",
+            "text": "avoiding government interference in the economy"
+          },
+          {
+            "label": "B",
+            "text": "supporting big business at any cost"
+          },
+          {
+            "label": "C",
+            "text": "protecting consumers, breaking up trusts and conserving natural resources"
+          },
+          {
+            "label": "D",
+            "text": "refusing to regulate railroads"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Identify two problems associated with rapid industrialization and urbanization and explain how Progressive reformers attempted to address each problem.",
+      "Describe one way in which the federal government increased its regulation of business during the Progressive Era."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "A",
+      "3": "B",
+      "4": "D",
+      "5": "C"
+    }
+  },
+  {
+    "number": 6,
+    "title": "Rise of American Power and World War\u202fI (1890\u20131920)",
+    "overview": [
+      "Economic and strategic interests spurred the United States to pursue imperialism.  The Spanish\u2011American War (1898) led to U.S. control of Puerto Rico, Guam and the Philippines and a base in Cuba through the Platt Amendment; the Roosevelt Corollary asserted the U.S. right to intervene in Latin America; and the Panama Canal facilitated trade and military movement.",
+      "While some Americans opposed imperialism as contrary to democratic ideals, others argued for expansion to access new markets and resources.  The early 20th century also saw debates over neutrality versus intervention: policies like the Neutrality Acts, Cash\u2011and\u2011Carry and Lend\u2011Lease gradually moved the United States from isolation toward involvement in World War\u00a0II.",
+      "President Woodrow Wilson initially promised neutrality but led the nation into World War\u00a0I due to unrestricted submarine warfare and other factors.  His Fourteen Points promoted self\u2011determination and the League of Nations, but the U.S. Senate rejected the Treaty of Versailles.  The war prompted social changes, including wartime jobs for women and African Americans, the Great Migration, and repressive measures like Schenck v.\u00a0United States during the Red Scare."
+    ],
+    "vocabulary": [
+      {
+        "term": "Imperialism",
+        "definition": "Policy by which stronger nations extend their economic, political or military control over weaker territories."
+      },
+      {
+        "term": "Spanish\u2013American War",
+        "definition": "1898 conflict that resulted in U.S. control of former Spanish colonies (Puerto\u00a0Rico, Guam, Philippines) and influence in Cuba."
+      },
+      {
+        "term": "Roosevelt Corollary",
+        "definition": "Theodore Roosevelt\u2019s extension of the Monroe Doctrine claiming the right of the U.S. to intervene in Latin America\u3010885187583936118\u2020L71-L79\u3011."
+      },
+      {
+        "term": "Yellow Journalism",
+        "definition": "Sensationalized news reporting that contributed to public support for the Spanish\u2013American War."
+      },
+      {
+        "term": "Open Door Policy",
+        "definition": "U.S. policy calling for equal trading rights in China."
+      },
+      {
+        "term": "Unrestricted Submarine Warfare",
+        "definition": "German policy of sinking ships without warning; a major factor in U.S. entry into World War\u00a0I."
+      },
+      {
+        "term": "Selective Service Act",
+        "definition": "Law requiring men to register for the draft during World War\u202fI."
+      },
+      {
+        "term": "Fourteen Points",
+        "definition": "President Wilson\u2019s plan for post\u2011war peace emphasizing self\u2011determination and the League of Nations."
+      },
+      {
+        "term": "League of Nations",
+        "definition": "International organization proposed by Wilson to promote peace; the U.S. did not join."
+      },
+      {
+        "term": "Great Migration",
+        "definition": "Movement of African Americans from the rural South to northern cities during and after World War\u00a0I."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The **Roosevelt Corollary** to the Monroe Doctrine justified",
+        "options": [
+          {
+            "label": "A",
+            "text": "U.S. neutrality in Latin American affairs"
+          },
+          {
+            "label": "B",
+            "text": "U.S. intervention in Latin America to correct \u201cchronic wrongdoing\u201d\u3010885187583936118\u2020L71-L79\u3011"
+          },
+          {
+            "label": "C",
+            "text": "European colonization in the Western Hemisphere"
+          },
+          {
+            "label": "D",
+            "text": "the abolition of the Monroe Doctrine"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "What was the immediate cause of the U.S. entry into World War\u00a0I?",
+        "options": [
+          {
+            "label": "A",
+            "text": "German resumption of unrestricted submarine warfare and the Zimmermann Telegram"
+          },
+          {
+            "label": "B",
+            "text": "The assassination of Archduke Franz Ferdinand"
+          },
+          {
+            "label": "C",
+            "text": "The sinking of the Titanic"
+          },
+          {
+            "label": "D",
+            "text": "The Bolshevik Revolution"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "President Woodrow Wilson\u2019s **Fourteen Points** were meant to",
+        "options": [
+          {
+            "label": "A",
+            "text": "punish Germany and demand war reparations"
+          },
+          {
+            "label": "B",
+            "text": "encourage isolationism in the United States"
+          },
+          {
+            "label": "C",
+            "text": "provide a plan for a just and lasting peace, including a League of Nations"
+          },
+          {
+            "label": "D",
+            "text": "establish colonial rule over defeated nations"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "The U.S. Senate refused to ratify the Treaty of Versailles primarily because",
+        "options": [
+          {
+            "label": "A",
+            "text": "it included provisions to dismantle German territory"
+          },
+          {
+            "label": "B",
+            "text": "it failed to grant independence to the Philippines"
+          },
+          {
+            "label": "C",
+            "text": "many senators believed that joining the League of Nations could draw the U.S. into future wars"
+          },
+          {
+            "label": "D",
+            "text": "President Wilson opposed the treaty"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Explain two arguments used by supporters and opponents of U.S. imperialism at the turn of the 20th century.",
+      "How did World War\u00a0I affect the rights and opportunities of women and African Americans in the United States?"
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "A",
+      "3": "C",
+      "4": "C"
+    }
+  },
+  {
+    "number": 7,
+    "title": "Prosperity and Depression (1920\u20131940)",
+    "overview": [
+      "The 1920s were characterized by economic prosperity and cultural change.  Jazz music and the Harlem Renaissance celebrated African American culture; flappers challenged traditional gender roles; Prohibition attempted to ban alcohol but led to speakeasies and organized crime; and tensions between modern science and traditional religion surfaced in the Scopes Trial.  The Ku\u00a0Klux\u00a0Klan reemerged and nativist sentiments drove immigration quotas.",
+      "African Americans continued to seek equality while nurturing cultural pride through the Harlem Renaissance and leaders like Marcus Garvey.  However, underlying economic weaknesses \u2014 overproduction, unequal wealth distribution, and excessive credit \u2014 led to the stock market crash of 1929 and the Great Depression.",
+      "President Herbert Hoover relied on limited government and voluntary action; mass unemployment and bank failures eroded confidence.  Franklin D. Roosevelt\u2019s New Deal created programs to provide relief, recovery and reform, expanding federal power.  Dust Bowl conditions devastated the Great Plains, and FDR\u2019s attempt to pack the Supreme Court raised constitutional concerns."
+    ],
+    "vocabulary": [
+      {
+        "term": "Consumerism",
+        "definition": "Cultural emphasis on the acquisition of goods and services, fueled by advertising and credit in the 1920s."
+      },
+      {
+        "term": "Harlem Renaissance",
+        "definition": "1920s cultural movement celebrating African\u2011American literature, art and music."
+      },
+      {
+        "term": "Prohibition (18th\u202fAmendment)",
+        "definition": "Ban on the manufacture and sale of alcoholic beverages (1920\u20131933)."
+      },
+      {
+        "term": "Stock Market Crash (1929)",
+        "definition": "Collapse in stock prices marking the beginning of the Great Depression."
+      },
+      {
+        "term": "Great Depression",
+        "definition": "Severe economic downturn of the 1930s characterized by high unemployment and bank failures."
+      },
+      {
+        "term": "Dust Bowl",
+        "definition": "Severe drought and soil erosion in the Great Plains causing agricultural devastation and migration."
+      },
+      {
+        "term": "New Deal",
+        "definition": "Roosevelt\u2019s program of relief, recovery and reform; included agencies like CCC, WPA and laws like Social Security Act\u3010123483348790548\u2020L62-L77\u3011."
+      },
+      {
+        "term": "Social Security Act",
+        "definition": "1935 law providing pensions for the elderly and unemployment insurance."
+      },
+      {
+        "term": "Wagner Act",
+        "definition": "Guaranteed workers the right to unionize and bargain collectively."
+      },
+      {
+        "term": "Court\u2011Packing Plan",
+        "definition": "Roosevelt\u2019s unsuccessful proposal to add justices to the Supreme Court to support New Deal legislation."
+      },
+      {
+        "term": "Flapper",
+        "definition": "A young woman of the 1920s known for energetic freedom, bobbed hair and unconventional behavior that challenged traditional gender norms."
+      },
+      {
+        "term": "Prohibition",
+        "definition": "Nationwide ban on the manufacture, sale, and transportation of alcoholic beverages established by the 18th Amendment (1919)."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "A major cause of the Stock Market Crash of 1929 was",
+        "options": [
+          {
+            "label": "A",
+            "text": "widespread underconsumption and decline in consumer spending"
+          },
+          {
+            "label": "B",
+            "text": "excessive speculation and buying stocks on margin"
+          },
+          {
+            "label": "C",
+            "text": "strict regulation of the stock market"
+          },
+          {
+            "label": "D",
+            "text": "government ownership of major industries"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "The main goal of the New Deal\u2019s **Civilian Conservation Corps (CCC)** and **Works Progress Administration (WPA)** was to",
+        "options": [
+          {
+            "label": "A",
+            "text": "provide jobs and economic relief to the unemployed"
+          },
+          {
+            "label": "B",
+            "text": "nationalize major industries"
+          },
+          {
+            "label": "C",
+            "text": "promote military expansion"
+          },
+          {
+            "label": "D",
+            "text": "subsidize farm prices exclusively"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "Which New Deal program continues to have a major impact on American society today by providing income for retired people?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Agricultural Adjustment Act"
+          },
+          {
+            "label": "B",
+            "text": "Federal Deposit Insurance Corporation"
+          },
+          {
+            "label": "C",
+            "text": "Social Security Act"
+          },
+          {
+            "label": "D",
+            "text": "Securities and Exchange Commission"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Critics of FDR\u2019s court\u2011packing plan argued that it",
+        "options": [
+          {
+            "label": "A",
+            "text": "violated the principle of judicial independence"
+          },
+          {
+            "label": "B",
+            "text": "did not go far enough to curb the power of the Supreme Court"
+          },
+          {
+            "label": "C",
+            "text": "was necessary to protect civil liberties"
+          },
+          {
+            "label": "D",
+            "text": "prevented New Deal legislation from being struck down"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "One lasting effect of the New Deal was that it",
+        "options": [
+          {
+            "label": "A",
+            "text": "ended racial discrimination in the United States"
+          },
+          {
+            "label": "B",
+            "text": "strengthened the role of the federal government in the economy and welfare\u3010123483348790548\u2020L74-L77\u3011"
+          },
+          {
+            "label": "C",
+            "text": "eliminated unemployment permanently"
+          },
+          {
+            "label": "D",
+            "text": "reduced the national debt"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Describe one social or cultural development of the 1920s and explain its significance.",
+      "Identify two criticisms of the New Deal and explain why some people opposed these programs."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "A",
+      "3": "C",
+      "4": "A",
+      "5": "B"
+    }
+  },
+  {
+    "number": 8,
+    "title": "World War\u202fII (1939\u20131945)",
+    "overview": [
+      "As World War\u00a0II loomed, the United States moved from neutrality toward support for the Allies through policies like Cash\u2011and\u2011Carry and Lend\u2011Lease.  The Japanese attack on Pearl Harbor on December\u00a07,\u00a01941 brought the United States fully into the war.",
+      "Mobilization for war ended the Great Depression, increased industrial output and created opportunities for women and minorities.  However, Japanese Americans were forcibly removed to internment camps under Executive Order\u00a09066; the Supreme Court upheld this policy in Korematsu v. United States (1944).  The war spurred technological advances and ended with the use of atomic bombs on Hiroshima and Nagasaki, ushering in the nuclear age.",
+      "The United States played a leading role in shaping the postwar world.  Awareness of the Holocaust led to war crimes trials at Nuremberg; Eleanor Roosevelt helped draft the Universal Declaration of Human Rights.  Domestic life was reshaped as returning soldiers used GI\u00a0Bill benefits and women debated their roles in postwar society."
+    ],
+    "vocabulary": [
+      {
+        "term": "Totalitarianism",
+        "definition": "Government system in which the state exerts total control over citizens\u2019 lives (e.g., Nazi Germany)."
+      },
+      {
+        "term": "Appeasement",
+        "definition": "Policy of making concessions to aggressor nations in order to avoid war (e.g., Munich Agreement)."
+      },
+      {
+        "term": "Lend\u2011Lease Act",
+        "definition": "1941 law allowing the U.S. to supply war materials to Allied nations while remaining officially neutral."
+      },
+      {
+        "term": "Pearl Harbor",
+        "definition": "Japanese attack on U.S. naval base in Hawaii on December\u202f7\u202f1941 that led to U.S. entry into World War\u202fII\u3010710063713857982\u2020L55-L57\u3011."
+      },
+      {
+        "term": "War Production Board",
+        "definition": "Federal agency overseeing conversion of factories to war production."
+      },
+      {
+        "term": "Rosie the Riveter",
+        "definition": "Symbol representing women who worked in war industries during World War\u202fII."
+      },
+      {
+        "term": "Internment",
+        "definition": "Forced relocation and confinement of Japanese Americans during World War\u202fII\u3010710063713857982\u2020L79-L83\u3011."
+      },
+      {
+        "term": "D\u2011Day",
+        "definition": "Allied invasion of Normandy, France, on June\u202f6\u202f1944, which opened a western front against Germany."
+      },
+      {
+        "term": "Manhattan Project",
+        "definition": "Secret U.S. program to develop atomic weapons; produced bombs dropped on Hiroshima and Nagasaki."
+      },
+      {
+        "term": "United Nations",
+        "definition": "International organization founded in 1945 to promote peace and cooperation."
+      },
+      {
+        "term": "Lend\u2011Lease",
+        "definition": "1941 program under which the United States supplied Allied nations with war material while remaining officially neutral."
+      },
+      {
+        "term": "Nuremberg Trials",
+        "definition": "Post\u2013World War\u00a0II military tribunals that prosecuted Nazi leaders for war crimes and crimes against humanity."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The immediate reason the United States entered World War\u202fII was",
+        "options": [
+          {
+            "label": "A",
+            "text": "the invasion of Poland"
+          },
+          {
+            "label": "B",
+            "text": "Japanese attack on Pearl Harbor\u3010710063713857982\u2020L55-L57\u3011"
+          },
+          {
+            "label": "C",
+            "text": "the signing of the Atlantic Charter"
+          },
+          {
+            "label": "D",
+            "text": "the bombing of London"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "During World War\u202fII, women and minorities in the United States experienced",
+        "options": [
+          {
+            "label": "A",
+            "text": "decreased job opportunities due to discrimination"
+          },
+          {
+            "label": "B",
+            "text": "increased employment in industrial jobs as part of the war effort\u3010710063713857982\u2020L59-L75\u3011"
+          },
+          {
+            "label": "C",
+            "text": "complete equality and end of segregation"
+          },
+          {
+            "label": "D",
+            "text": "exclusion from the armed forces"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "Which action illustrates a violation of civil liberties during World War\u202fII?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Implementation of the G.I. Bill"
+          },
+          {
+            "label": "B",
+            "text": "War bond drives"
+          },
+          {
+            "label": "C",
+            "text": "Internment of Japanese Americans\u3010710063713857982\u2020L79-L83\u3011"
+          },
+          {
+            "label": "D",
+            "text": "Formation of the United Nations"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "The end of World War\u202fII in the Pacific was hastened by",
+        "options": [
+          {
+            "label": "A",
+            "text": "the Soviet Union\u2019s surrender"
+          },
+          {
+            "label": "B",
+            "text": "the development of the Marshall Plan"
+          },
+          {
+            "label": "C",
+            "text": "the dropping of atomic bombs on Hiroshima and Nagasaki\u3010710063713857982\u2020L86-L90\u3011"
+          },
+          {
+            "label": "D",
+            "text": "the Battle of Midway alone"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Which international organization was created after World War\u202fII to prevent future global conflicts?",
+        "options": [
+          {
+            "label": "A",
+            "text": "League of Nations"
+          },
+          {
+            "label": "B",
+            "text": "NATO"
+          },
+          {
+            "label": "C",
+            "text": "United Nations"
+          },
+          {
+            "label": "D",
+            "text": "Warsaw Pact"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Explain two effects of World War\u202fII on the U.S. home front.  Consider economic, social and political changes.",
+      "Discuss one argument for and one argument against the use of atomic bombs to end the war with Japan."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "B",
+      "3": "C",
+      "4": "C",
+      "5": "C"
+    }
+  },
+  {
+    "number": 9,
+    "title": "The Cold War (1945\u20131991)",
+    "overview": [
+      "After World War\u00a0II, ideological differences between the United States and the Soviet Union led to the Cold War.  The U.S. pursued containment through policies such as the Truman Doctrine, Marshall Plan and NATO, and responded to early crises like the Berlin Blockade with the Berlin Airlift.",
+      "The arms race and space race escalated after the Soviet Union\u2019s atomic bomb and Sputnik launch.  Moments of tension (Cuban Missile Crisis) were followed by periods of d\u00e9tente and arms limitation.  Proxy wars in Korea and Vietnam tested containment; the Vietnam War spurred protests, the 26th Amendment lowering the voting age, and passage of the War Powers Act.  Domestically, McCarthyism fueled the Red Scare and cases like Watergate increased distrust of government.",
+      "U.S. involvement in the Middle East grew with support for Israel and dependence on oil.  The Cold War ended as the Soviet Union weakened economically and politically; reforms like Glasnost and Perestroika and the fall of the Berlin Wall signaled the collapse of Soviet power and the end of the bipolar world."
+    ],
+    "vocabulary": [
+      {
+        "term": "Containment",
+        "definition": "U.S. policy aimed at preventing the spread of communism."
+      },
+      {
+        "term": "Truman Doctrine",
+        "definition": "1947 policy promising aid to nations resisting communist subjugation (initially Greece and Turkey)."
+      },
+      {
+        "term": "Marshall Plan",
+        "definition": "Program providing economic aid to rebuild Western Europe after World War\u202fII and prevent communist influence."
+      },
+      {
+        "term": "NATO",
+        "definition": "North Atlantic Treaty Organization; military alliance of Western nations formed in 1949."
+      },
+      {
+        "term": "Warsaw Pact",
+        "definition": "Soviet\u2011led military alliance of Eastern bloc nations formed in 1955."
+      },
+      {
+        "term": "McCarthyism",
+        "definition": "Campaign against alleged communists in U.S. government and society during the early 1950s."
+      },
+      {
+        "term": "Domino Theory",
+        "definition": "Belief that if one country falls to communism, neighboring nations will follow."
+      },
+      {
+        "term": "Cuban Missile Crisis",
+        "definition": "1962 confrontation over Soviet missiles in Cuba; brought the world to the brink of nuclear war."
+      },
+      {
+        "term": "Detente",
+        "definition": "Easing of Cold War tensions during the 1970s."
+      },
+      {
+        "term": "Glasnost/Perestroika",
+        "definition": "Soviet reforms under Mikhail Gorbachev promoting openness and economic restructuring."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The primary goal of the U.S. policy of **containment** was to",
+        "options": [
+          {
+            "label": "A",
+            "text": "promote the spread of communism in Asia"
+          },
+          {
+            "label": "B",
+            "text": "restrict the spread of communism by supporting allies and intervening in conflicts\u3010872024434162055\u2020L61-L72\u3011"
+          },
+          {
+            "label": "C",
+            "text": "dismantle nuclear weapons"
+          },
+          {
+            "label": "D",
+            "text": "form military alliances with communist countries"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "The **Marshall Plan** sought to",
+        "options": [
+          {
+            "label": "A",
+            "text": "punish Germany after World War\u202fII"
+          },
+          {
+            "label": "B",
+            "text": "provide economic aid to rebuild Western Europe and limit communist influence"
+          },
+          {
+            "label": "C",
+            "text": "create the Warsaw Pact"
+          },
+          {
+            "label": "D",
+            "text": "encourage U.S. isolationism"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "Which event brought the United States and the Soviet Union closest to nuclear war?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Berlin Blockade"
+          },
+          {
+            "label": "B",
+            "text": "Korean War"
+          },
+          {
+            "label": "C",
+            "text": "Cuban Missile Crisis"
+          },
+          {
+            "label": "D",
+            "text": "Vietnam War"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "One reason the **Berlin Wall** fell in 1989 was that",
+        "options": [
+          {
+            "label": "A",
+            "text": "the United States invaded East Germany"
+          },
+          {
+            "label": "B",
+            "text": "democratic movements and reforms weakened Soviet control\u3010872024434162055\u2020L76-L84\u3011"
+          },
+          {
+            "label": "C",
+            "text": "NATO dissolved"
+          },
+          {
+            "label": "D",
+            "text": "West Germany adopted communism"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "The **domino theory** was used to justify U.S. involvement in",
+        "options": [
+          {
+            "label": "A",
+            "text": "the Suez Crisis"
+          },
+          {
+            "label": "B",
+            "text": "the Korean and Vietnam Wars"
+          },
+          {
+            "label": "C",
+            "text": "the Marshall Plan"
+          },
+          {
+            "label": "D",
+            "text": "NAFTA negotiations"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Describe two ways in which the Cold War affected domestic life in the United States.",
+      "Explain one factor that contributed to the end of the Cold War."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "B",
+      "3": "C",
+      "4": "B",
+      "5": "B"
+    }
+  },
+  {
+    "number": 10,
+    "title": "Social and Economic Change / Civil Rights (1945\u20131991)",
+    "overview": [
+      "The civil rights movement sought to end segregation and racial discrimination.  Leaders like Martin Luther King\u00a0Jr., Malcolm\u00a0X, Fannie Lou Hamer and organizations such as the NAACP, SCLC and SNCC employed legal strategies and nonviolent protest.  Major victories included Brown v.\u00a0Board of Education (1954), the Civil Rights Act of 1964 and the Voting Rights Act of 1965; events like the Montgomery Bus Boycott, Little\u00a0Rock Nine, Birmingham protests and March on Washington drew national attention.",
+      "Other social movements emerged: the women\u2019s movement (National Organization for Women, Equal Pay Act, Title\u00a0IX, Roe v.\u00a0Wade), Native American activism (American Indian Movement), Latino activism (Cesar\u00a0Chavez and United Farm Workers), disability rights (Individuals with Disabilities Education Act and Americans with Disabilities Act), immigration reform and environmental protection (EPA, Clean Air Act, Clean Water Act).",
+      "Debates over the size and role of the federal government continued.  Lyndon\u00a0Johnson\u2019s Great Society expanded social programs, while Ronald Reagan\u2019s supply\u2011side economics sought to reduce taxes and regulation.  Economic crises such as the Great Recession (2008) and debates over health care and social security shaped political discourse."
+    ],
+    "vocabulary": [
+      {
+        "term": "Civil Rights Movement",
+        "definition": "Struggle for social justice and equal rights for African Americans, culminating in major legislation\u3010506630025427123\u2020L53-L62\u3011."
+      },
+      {
+        "term": "Brown v.\u202fBoard of Education",
+        "definition": "1954 Supreme Court decision declaring segregated public schools unconstitutional\u3010506630025427123\u2020L64-L75\u3011."
+      },
+      {
+        "term": "Montgomery Bus Boycott",
+        "definition": "1955\u20131956 boycott triggered by Rosa Parks\u2019 arrest; propelled Martin Luther King\u00a0Jr. to national prominence\u3010506630025427123\u2020L76-L81\u3011."
+      },
+      {
+        "term": "Civil Rights Act of\u00a01964",
+        "definition": "Law banning segregation and discrimination based on race, color, religion, sex or national origin\u3010506630025427123\u2020L119-L126\u3011."
+      },
+      {
+        "term": "Voting Rights Act of\u00a01965",
+        "definition": "Law eliminating discriminatory voting practices such as literacy tests\u3010506630025427123\u2020L119-L126\u3011."
+      },
+      {
+        "term": "Great Society",
+        "definition": "President Johnson\u2019s domestic agenda aimed at ending poverty and racial injustice."
+      },
+      {
+        "term": "Suburbanization",
+        "definition": "Movement of populations to suburbs; facilitated by highways and automobile ownership."
+      },
+      {
+        "term": "Baby Boom",
+        "definition": "Post\u2011WWII population surge that increased demand for housing, education and consumer goods."
+      },
+      {
+        "term": "Environmental Movement",
+        "definition": "Movement promoting conservation and environmental protection; led to the creation of the EPA."
+      },
+      {
+        "term": "Title IX",
+        "definition": "1972 law prohibiting sex discrimination in educational programs receiving federal funding."
+      },
+      {
+        "term": "Civil Rights Act of 1964",
+        "definition": "Federal law that prohibited discrimination based on race, color, religion, sex or national origin and ended segregation in public places."
+      },
+      {
+        "term": "Voting Rights Act of 1965",
+        "definition": "Federal law that banned literacy tests and other measures used to suppress African American voting and provided for federal oversight of elections."
+      },
+      {
+        "term": "Roe v. Wade",
+        "definition": "1973 Supreme Court case that established a woman\u2019s legal right to an abortion under the Constitution."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The Supreme Court decision in **Brown v.\u202fBoard of Education** (1954) was important because it",
+        "options": [
+          {
+            "label": "A",
+            "text": "upheld the separate\u2011but\u2011equal doctrine"
+          },
+          {
+            "label": "B",
+            "text": "declared segregation in public schools unconstitutional\u3010506630025427123\u2020L64-L75\u3011"
+          },
+          {
+            "label": "C",
+            "text": "enforced poll taxes"
+          },
+          {
+            "label": "D",
+            "text": "overturned the Civil Rights Act of 1964"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "Which strategy was commonly used by civil rights activists to protest segregation and discrimination?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Violent uprisings"
+          },
+          {
+            "label": "B",
+            "text": "Economic boycotts and non\u2011violent civil disobedience\u3010506630025427123\u2020L53-L62\u3011"
+          },
+          {
+            "label": "C",
+            "text": "Political assassinations"
+          },
+          {
+            "label": "D",
+            "text": "Building segregation walls"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "The **Great Society** programs focused on",
+        "options": [
+          {
+            "label": "A",
+            "text": "reducing the size of the federal government"
+          },
+          {
+            "label": "B",
+            "text": "ending poverty and expanding civil rights"
+          },
+          {
+            "label": "C",
+            "text": "curbing environmental regulations"
+          },
+          {
+            "label": "D",
+            "text": "promoting laissez\u2011faire economic policy"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Title\u202fIX of the Education Amendments of 1972 is most closely associated with",
+        "options": [
+          {
+            "label": "A",
+            "text": "ending racial discrimination in housing"
+          },
+          {
+            "label": "B",
+            "text": "guaranteeing equal athletic and educational opportunities for women"
+          },
+          {
+            "label": "C",
+            "text": "creating environmental protection laws"
+          },
+          {
+            "label": "D",
+            "text": "establishing Medicare"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Which of the following describes a consequence of suburbanization after World War\u202fII?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Decline in automobile ownership"
+          },
+          {
+            "label": "B",
+            "text": "Growth of cities and increased urban density"
+          },
+          {
+            "label": "C",
+            "text": "Movement of middle\u2011class families to outlying areas, contributing to urban decline"
+          },
+          {
+            "label": "D",
+            "text": "Elimination of racial discrimination in housing"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Identify two methods used by civil rights activists to challenge segregation and discuss how these methods contributed to legislative change.",
+      "Describe one social movement other than the civil rights movement that sought to expand equality during the 1960s and 1970s, and explain its achievements."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "B",
+      "3": "B",
+      "4": "B",
+      "5": "C"
+    }
+  },
+  {
+    "number": 11,
+    "title": "The United States in a Changing World (1990\u2013Present)",
+    "overview": [
+      "After the Cold War, U.S. foreign policy balanced human rights concerns with reluctance to intervene in foreign conflicts.  The Persian Gulf War (1991) expelled Iraqi forces from Kuwait but left Saddam Hussein in power and contributed to a continued U.S. presence in the Middle East.  Crises in Bosnia, Rwanda and Kosovo highlighted debates over humanitarian intervention and the legacy of Vietnam.",
+      "The September 11, 2001 terrorist attacks transformed U.S. domestic and foreign policy.  The United States launched the War on Terror, invading Afghanistan to oust the Taliban and Iraq over alleged weapons of mass destruction.  The Patriot Act expanded government surveillance, raising concerns about civil liberties.",
+      "Globalization and technological advances created new challenges and opportunities.  Multinational corporations increased interdependence; debates continue over the effects of free trade and the economic rivalry with China.  Domestic debates focus on balancing security, liberty and engagement in a rapidly changing world."
+    ],
+    "vocabulary": [
+      {
+        "term": "NAFTA",
+        "definition": "1994 trade agreement creating a free\u2011trade zone among the United States, Canada and Mexico."
+      },
+      {
+        "term": "World Trade Organization (WTO)",
+        "definition": "International organization established in 1995 to regulate global trade rules."
+      },
+      {
+        "term": "Globalization",
+        "definition": "Process of increasing economic, cultural and technological interdependence among nations."
+      },
+      {
+        "term": "September\u00a011,\u00a02001 (9/11)",
+        "definition": "Terrorist attacks in which hijackers flew airplanes into the World Trade Center and the Pentagon, killing nearly 3,000 people\u3010915548544141003\u2020L62-L87\u3011."
+      },
+      {
+        "term": "War on Terror",
+        "definition": "U.S. campaign to combat terrorism globally, including wars in Afghanistan (2001) and Iraq (2003)."
+      },
+      {
+        "term": "Department of Homeland Security",
+        "definition": "Cabinet\u2011level department created in 2002 to coordinate national efforts against terrorism."
+      },
+      {
+        "term": "USA PATRIOT Act",
+        "definition": "2001 law expanding government surveillance and law\u2011enforcement powers to combat terrorism."
+      },
+      {
+        "term": "Great Recession",
+        "definition": "Severe economic downturn of 2007\u20132009 triggered by the housing market collapse and financial crisis."
+      },
+      {
+        "term": "Affordable Care Act (ACA)",
+        "definition": "2010 law aimed at expanding health insurance coverage and regulating health\u2011care markets."
+      },
+      {
+        "term": "Climate Change",
+        "definition": "Long\u2011term shifts in global temperatures; prompted policy debates and environmental movements."
+      },
+      {
+        "term": "Patriot Act",
+        "definition": "2001 law expanding law enforcement\u2019s surveillance and investigative powers to detect and deter terrorism."
+      },
+      {
+        "term": "Multinational corporation",
+        "definition": "Business organization that operates in multiple countries and plays a significant role in global trade and economics."
+      }
+    ],
+    "mc_questions": [
+      {
+        "number": 1,
+        "question": "The main purpose of **NAFTA** was to",
+        "options": [
+          {
+            "label": "A",
+            "text": "create a political union among North American nations"
+          },
+          {
+            "label": "B",
+            "text": "remove trade barriers between the United States, Canada and Mexico"
+          },
+          {
+            "label": "C",
+            "text": "establish a common currency for North America"
+          },
+          {
+            "label": "D",
+            "text": "protect domestic industries through high tariffs"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "question": "Which development has had the greatest impact on globalization since the 1990s?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The decline of international travel"
+          },
+          {
+            "label": "B",
+            "text": "The expansion of the Internet and digital technology"
+          },
+          {
+            "label": "C",
+            "text": "The repeal of the Bill of Rights"
+          },
+          {
+            "label": "D",
+            "text": "The end of the Space Race"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "question": "What was one consequence of the September\u00a011 attacks?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reduced security measures at airports"
+          },
+          {
+            "label": "B",
+            "text": "Decrease in U.S. military spending"
+          },
+          {
+            "label": "C",
+            "text": "Establishment of the Department of Homeland Security and passage of the USA PATRIOT Act"
+          },
+          {
+            "label": "D",
+            "text": "Abolition of NATO"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "question": "Which factor contributed to the **Great Recession** of 2007\u20132009?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Overproduction of goods in manufacturing"
+          },
+          {
+            "label": "B",
+            "text": "A severe drought in the Midwest"
+          },
+          {
+            "label": "C",
+            "text": "The collapse of the housing market and risky financial practices"
+          },
+          {
+            "label": "D",
+            "text": "A gold standard monetary system"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "The U.S. invasion of Iraq in 2003 was justified by the Bush Administration largely on the grounds that",
+        "options": [
+          {
+            "label": "A",
+            "text": "Iraq had attacked the United States on 9/11"
+          },
+          {
+            "label": "B",
+            "text": "Iraq possessed weapons of mass destruction and posed a threat"
+          },
+          {
+            "label": "C",
+            "text": "Iraq requested U.S. assistance against Iran"
+          },
+          {
+            "label": "D",
+            "text": "The United Nations authorized a permanent occupation"
+          }
+        ]
+      }
+    ],
+    "short_answers": [
+      "Explain one economic and one cultural impact of globalization on the United States in the 21st century.",
+      "Discuss two challenges the U.S. has faced since 2000 in balancing national security and individual rights."
+    ],
+    "answer_key": {
+      "1": "B",
+      "2": "B",
+      "3": "C",
+      "4": "C",
+      "5": "B"
+    }
+  }
+]
