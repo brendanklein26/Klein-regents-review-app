@@ -39,6 +39,33 @@
             overflow-y: auto;
         }
 
+        /* Hide the default Google Translate dropdown since we will provide our own language buttons */
+        #google_translate_element {
+            display: none;
+        }
+
+        /* Style for language translation buttons */
+        .lang-buttons {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 6px;
+            margin: 8px 0;
+        }
+        .lang-buttons button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 4px;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .lang-buttons button:hover {
+            background-color: #2980b9;
+        }
+
         /* Styles for Connections game */
         .connections-grid {
             display: grid;
@@ -79,6 +106,18 @@
     </header>
     <nav id="unit-nav">
     </nav>
+
+    <!-- Custom language buttons for translation -->
+    <!-- These buttons allow students to translate the page into selected languages or back to English. -->
+    <div class="lang-buttons" id="language-buttons">
+        <button data-lang="en">🇺🇸 English</button>
+        <button data-lang="es">🇪🇸 Español</button>
+        <button data-lang="ja">🇯🇵 日本語</button>
+        <button data-lang="ko">🇰🇷 한국어</button>
+        <button data-lang="it">🇮🇹 Italiano</button>
+        <button data-lang="ur">🇵🇰 اردو</button>
+        <button data-lang="zh-TW">🇹🇼 繁體中文</button>
+    </div>
 
     <!-- Language translation dropdown powered by Google Translate -->
     <!-- The dropdown will appear here; it will list all supported languages in a scrollable menu. -->
@@ -1958,13 +1997,67 @@
       function googleTranslateElementInit() {
         new google.translate.TranslateElement({
           pageLanguage: 'en',
-          // Use the SIMPLE layout to display a dropdown of languages.  When there are many languages, the dropdown
-          // becomes scrollable because of the CSS rule defined above.
+          // Restrict the available translation options to a select set of languages.  This improves usability and
+          // meets the user's request to offer only Spanish, Japanese, Korean, Italian, Urdu and Chinese Traditional.
+          includedLanguages: 'en,es,ja,ko,it,ur,zh-TW',
+          // Use the SIMPLE layout to display a dropdown of languages.  The CSS rule added above ensures the
+          // dropdown remains scrollable if needed.
           layout: google.translate.TranslateElement.InlineLayout.SIMPLE
         }, 'google_translate_element');
       }
     </script>
     <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <!-- Custom script to handle language button clicks.  Clicking a button sets the appropriate
+         Google Translate cookie and attempts to update the hidden translate widget.  If the
+         widget cannot be updated directly, the page reloads to apply the translation. -->
+    <script type="text/javascript">
+      (function() {
+        var container = document.getElementById('language-buttons');
+        if (container) {
+          container.addEventListener('click', function(evt) {
+            var button = evt.target;
+            // If a nested element (e.g., span) was clicked inside the button, find the closest button ancestor
+            if (button && button.tagName !== 'BUTTON') {
+              button = button.closest('button');
+            }
+            if (!button) return;
+            var lang = button.getAttribute('data-lang');
+            if (!lang) return;
+            // Save current unit index so that translation reload returns user to same unit
+            if (typeof window.currentUnitIndex !== 'undefined' && window.currentUnitIndex !== null) {
+              sessionStorage.setItem('selectedUnit', String(window.currentUnitIndex));
+            }
+            // Determine cookie value: for English, use auto to English to reset translation; otherwise from English to target language
+            var cookieValue = (lang === 'en') ? '/auto/en' : '/en/' + lang;
+            // Set cookies for translation
+            document.cookie = 'googtrans=' + cookieValue + ';path=/';
+            var host = window.location.hostname;
+            if (host) {
+              document.cookie = 'googtrans=' + cookieValue + ';path=/;domain=' + host;
+            }
+            // Try to update the hidden Google Translate select directly if it exists
+            var gtSelect = document.querySelector('#google_translate_element select');
+            var changed = false;
+            if (gtSelect) {
+              var targetVal = (lang === 'en') ? 'auto|en' : 'en|' + lang;
+              for (var i = 0; i < gtSelect.options.length; i++) {
+                if (gtSelect.options[i].value === targetVal) {
+                  gtSelect.selectedIndex = i;
+                  gtSelect.dispatchEvent(new Event('change'));
+                  changed = true;
+                  break;
+                }
+              }
+            }
+            // If the widget is not available or not updated, reload the page to apply translation
+            if (!changed) {
+              location.reload();
+            }
+          });
+        }
+      })();
+    </script>
     <div id="content">
         <p>Select a unit above to begin your review.</p>
     </div>
